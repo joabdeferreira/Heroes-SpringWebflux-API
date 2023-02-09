@@ -1,15 +1,7 @@
-
 # Demo sobre live coding da digital innovation one - spring webflux - criando seu gerenciador de herois
+## Stacks utilizadas: 
 
-## Stack utilizada
-
-  * Java8
-  * spring webflux
-  * Spring data
-  * dynamodb
-  * junit
-  * sl4j
-  * reactor
+  * Java8  * spring webflux  * Spring data * dynamodb  * junit  * sl4j * reactor
  
 ### Slides de palestra: https://speakerdeck.com/kamilahsantos/live-coding-dio-api-de-herois-com-spring-webflux
 ### Palestra garavda: https://www.youtube.com/watch?v=1VllPZYn6RI&t=3257s
@@ -19,4 +11,8 @@
 para listar as tabelas criadas:  aws dynamodb list-tables --endpoint-url http://localhost:8000
 documentacao gerada pela aplicação: swagger: http://localhost:8080/swagger-ui-heroes-reactive-api.html
 
-// Versão feita em casa ainda apresantando erro nos testes na hora de rodar o DynamoDB
+//UPDATE: Versão feita em casa ainda apresantando erro nos testes na hora de rodar o DynamoDB
+ttps://github.com/joabdeferreira / 
+joabdeferreira@gmail.com
+
+Joab Ferreira
