@@ -12,7 +12,8 @@ para listar as tabelas criadas:  aws dynamodb list-tables --endpoint-url http://
 documentacao gerada pela aplicação: swagger: http://localhost:8080/swagger-ui-heroes-reactive-api.html
 
 //UPDATE: Versão feita em casa ainda apresantando erro nos testes na hora de rodar o DynamoDB
-ttps://github.com/joabdeferreira / 
+https://github.com/joabdeferreira / 
+
 joabdeferreira@gmail.com
 
 Joab Ferreira
